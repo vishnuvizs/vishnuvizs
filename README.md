@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @vishnuvizs
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science with python
-- 💞️ I’m looking to collaborate on open source data science projects
-- 📫 ping me on telegram @vishnuvisz1
+- 👋 Hi, I’m Vishnu Viswanath
+- 👀 I'm a Passionate Data Scientist
+- 🌱 I’m currently on a Upskilling Journey
+- 💞️ I have experience working with:
+-         * Python,R, SQL
+-         * Machine Learning 
+-         * Deep Learning
+-         * Web Scraping
+-         * Data Manipulation
+-         * Backend Development with Django
+-         * AWS EC2,S3,CLOUD9
+- 📫 Ping me on telegram @vishnuvisz1
+- 📧 Or whatsapp +91 7012770528
 
-<!---
-vishnuvizs/vishnuvizs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
