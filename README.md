@@ -2,7 +2,7 @@
 - 👀 I'm a Passionate Data Scientist
 - 🌱 I’m currently on a Upskilling Journey
 - 💞️ I have experience working with:
--         * Python,R, SQL
+-         * Python, SQL
 -         * Machine Learning 
 -         * Deep Learning
 -         * Web Scraping
