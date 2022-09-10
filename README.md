@@ -8,7 +8,7 @@
 -         * Web Scraping
 -         * Data Manipulation
 -         * Backend Development with Django
--         * AWS EC2,S3,CLOUD9
+-         * AWS Services
 - 📫 Ping me on telegram @vishnuvisz1
 - 📧 Or whatsapp +91 7012770528
 
